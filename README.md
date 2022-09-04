@@ -1,3 +1,3 @@
 # React Counter App
 
-Counter app using cra-template.
+A Counter app using cra-template that utilizes CI/CD using GitHub and Netlify.

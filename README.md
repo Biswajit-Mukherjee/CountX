@@ -8,4 +8,4 @@ Counter app using cra-template and implemented using CI/CD.
 
 **Testing:** Jest and React-testing-library
 
-!(./src/img/App.png)
+![](./src/img/App.png)

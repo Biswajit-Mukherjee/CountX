@@ -1,6 +1,6 @@
 # React Counter App
 
-Counter app using cra-template and implemented using CI/CD pipeline with GitHub and Netlify.
+Counter app using create-react-app with CI/CD pipeline using GitHub and Netlify.
 
 **UI:** React
 

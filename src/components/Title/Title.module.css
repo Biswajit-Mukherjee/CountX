@@ -1,0 +1,8 @@
+:root {
+  --title-clr: hsl(237, 78%, 64%);
+}
+
+.title {
+  color: var(--title-clr);
+  letter-spacing: normal;
+}

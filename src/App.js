@@ -1,10 +1,11 @@
 import "./App.css";
-import Counter from "./components/Counter";
+import Title from "./components/Title/Title";
+import Counter from "./components/Counter/Counter";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="title">React Counter App</h1>
+    <div className="App" data-testid="App">
+      <Title />
       <Counter />
     </div>
   );

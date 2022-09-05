@@ -1,9 +1,4 @@
 .App {
-  text-align: center;
-}
-
-.title {
-  color: #4f57e9;
   font-family: 'Inter', sans-serif;
-  letter-spacing: normal;
+  text-align: center;
 }

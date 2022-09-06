@@ -1,4 +1,17 @@
+:root {
+  --app-max-width: 640px;
+}
+
 .App {
-  font-family: 'Inter', sans-serif;
-  text-align: center;
+  font-family: "Inter", sans-serif;
+  margin: auto;
+  width: 100%;
+  max-width: var(--app-max-width);
+  min-height: calc(var(--app-max-width)/2);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border: 1px solid #d4d4d4;
+  border-radius: 0.5rem;
+  overflow: hidden;
 }

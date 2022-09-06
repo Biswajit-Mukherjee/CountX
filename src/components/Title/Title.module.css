@@ -5,4 +5,7 @@
 .title {
   color: var(--title-clr);
   letter-spacing: normal;
+  line-height: 1.54;
+  width: 100%;
+  text-align: center;
 }

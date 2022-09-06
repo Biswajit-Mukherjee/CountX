@@ -18,7 +18,9 @@ export default function Counter() {
 
   return (
     <div className={styles["counter"]}>
-      <p className={styles["counter__value"]} role="paragraph">{counter}</p>
+      <p className={styles["counter__value"]} role="paragraph">
+        <span>{counter}</span>
+      </p>
 
       <div className={styles["counter__actions"]}>
         <button className={styles["btn"]} onClick={decrementHandler}>

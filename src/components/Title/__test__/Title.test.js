@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import Title from "./Title";
+import Title from "../Title";
 
 // Title Component Test Suite
 describe("Title component", () => {

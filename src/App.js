@@ -1,12 +1,14 @@
+import Footer from "./components/Footer/Footer";
+import Header from "./components/Header/Header";
+import Main from "./components/Main/Main";
 import "./App.css";
-import Title from "./components/Title/Title";
-import Counter from "./components/Counter/Counter";
 
 function App() {
   return (
     <div className="App" data-testid="App">
-      <Title />
-      <Counter />
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }

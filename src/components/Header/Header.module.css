@@ -28,6 +28,7 @@
 .header__title {
   height: var(--header-content-size);
   font-size: var(--header-content-size);
+  font-weight: 600;
 }
 
 @media (max-width: 600px) {

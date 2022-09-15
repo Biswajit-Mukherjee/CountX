@@ -1,6 +1,8 @@
 import { render, screen } from "@testing-library/react";
 import Header from "../Header";
 
+const HEADER_TITLE = "CountX";
+
 // Header Component Test Suite
 describe("Header component", () => {
   test("renders logo image on screen", () => {
@@ -33,6 +35,6 @@ describe("Header component", () => {
 
     // Assert
     const titleElement = screen.getByRole("heading");
-    expect(titleElement.textContent).toBe("Counts");
+    expect(titleElement.textContent).toBe(HEADER_TITLE);
   });
 });

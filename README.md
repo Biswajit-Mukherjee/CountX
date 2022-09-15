@@ -1,6 +1,6 @@
 # Counts
 
-A Counter app created using **create-react-app** template.
+A Counter app created using **[create-react-app]**(https://github.com/facebook/create-react-app) template.
 
 Implemented an automatic CI/CD pipeline that pulls the latest code from **GitHub**, runs tests using **Jest** and **React-Testing-Library** and then deploys the successfull build to **Netlify** server.
 

@@ -1,4 +1,4 @@
-# React Counter App
+# Counts
 
 Counter app using create-react-app with CI/CD pipeline using GitHub and Netlify.
 

@@ -1,4 +1,4 @@
-# Countx
+# CountX
 
 A Counter app created using [create-react-app](https://github.com/facebook/create-react-app) template.
 

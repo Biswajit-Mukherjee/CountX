@@ -12,6 +12,8 @@ Implemented a CI/CD pipeline that pulls the latest code from **GitHub**, runs te
 
 - **UI:** [React.js](https://reactjs.org/)
 
+- **Testing:** [Jest](https://jestjs.io/) and [React-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
+
 - **CI/CD:** [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/)
 
-- **Testing:** [Jest](https://jestjs.io/) and [React-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
+

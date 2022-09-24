@@ -16,4 +16,4 @@ Implemented a CI/CD pipeline that pulls the latest code from **GitHub**, runs te
 
 - **CI/CD:** [GitHub](https://github.com/) and [Netlify](https://www.netlify.com/)
 
-
+- **Image hosting:** [Cloudinary](https://cloudinary.com/)

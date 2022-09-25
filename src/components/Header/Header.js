@@ -1,7 +1,6 @@
 import styles from "./Header.module.css";
 
-const HEADER_LOGO =
-  "https://res.cloudinary.com/biswajit-mukherjee/image/upload/v1664009616/Projects/countX/logo_zytw6b.jpg";
+const HEADER_LOGO = "https://res.cloudinary.com/dbnt8bskc/image/upload/v1664009616/Projects/countX/logo_zytw6b.jpg";
 const HEADER_TITLE = "CountX";
 
 export default function Header() {
